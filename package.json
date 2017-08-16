@@ -1,0 +1,24 @@
+{
+  "name": "firstnode",
+  "version": "0.0.1",
+  "description": "first nodejs project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastien-M/firstnode.git"
+  },
+  "keywords": [
+    "first",
+    "nodejs",
+    "simplon"
+  ],
+  "author": "Sebastien Mandaba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebastien-M/firstnode/issues"
+  },
+  "homepage": "https://github.com/Sebastien-M/firstnode#readme"
+}
