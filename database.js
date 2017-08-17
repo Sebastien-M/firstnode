@@ -13,6 +13,7 @@ function request(callback) {
       if (err) throw err;
       callback(result);
     });
+    con.end();
   });
 }
 
