@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Sebastien-M/firstnode/issues"
   },
-  "homepage": "https://github.com/Sebastien-M/firstnode#readme"
+  "homepage": "https://github.com/Sebastien-M/firstnode#readme",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  }
 }
